@@ -1,5 +1,5 @@
 // DSSP koja vo niza binarno ke prebaruva nekoj element.
-
+// Testiranje na git
 <?php
 $a=[3,7,12,20,28,34,40,57,64,69,75,84,90,97];
 $b = readline("Vnesi broj: ");
